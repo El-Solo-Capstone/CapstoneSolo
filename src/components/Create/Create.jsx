@@ -1,0 +1,1 @@
+// All logged in users create posts here
