@@ -20,7 +20,7 @@ const Nav = ({ LoggedIn, UserLoggedIn }) => {
                         <Link to ='/'> Home </Link>
                         <Link to ='/register'> Register </Link>
                         <Link to ='/login'> Log In </Link>
-                        <Link to ='/posts'>  </Link>
+                        <Link to ='/posts'> Parts </Link>
                     </nav>
                 </>
             )}
